@@ -29,3 +29,9 @@ p {
     margin-top: 84px;
     border-left: 7px solid #05de6d;
 }
+footer p{
+    border-right: 7px solid #05de6d;
+}
+footer p a{
+    text-decoration: none;
+}
