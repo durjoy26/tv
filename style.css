@@ -35,3 +35,9 @@ footer p{
 footer p a{
     text-decoration: none;
 }
+.images{
+    height:131.75px; 
+    width:147.9px;
+    border:2px solid #ccc;
+
+}
