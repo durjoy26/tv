@@ -43,3 +43,11 @@ footer p a{
 .fixed {
     width: 121.9px !important;
 }
+.logo {
+    font-weight: 700;
+    font-family: cursive;
+    font-size: 25px;
+    background: -webkit-linear-gradient(#2A659f, #77E6CD);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
