@@ -37,7 +37,9 @@ footer p a{
 }
 .images{
     height:131.75px; 
-    width:147.9px;
+    width: 137.9px;
     border:2px solid #ccc;
-
+}
+.fixed {
+    width: 121.9px !important;
 }
