@@ -53,3 +53,8 @@ footer p a{
     /* -webkit-background-clip: text; */
     /* -webkit-text-fill-color: transparent; */
 }
+.nav-link {
+    text-align: center;
+    /* border-bottom: 3px solid #05de6d; */
+    /* border-radius: 10px; */
+}
