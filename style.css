@@ -41,7 +41,9 @@ footer p a{
     border:2px solid #ccc;
 }
 .fixed {
-    width: 121.9px !important;
+    width: 112.9px !important;
+    margin: 9px 23px;
+    margin-left: 21px;
 }
 .logo {
     font-weight: 700;
